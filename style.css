@@ -1,0 +1,50 @@
+table,td,th
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+
+th
+{
+	background-color: #3876f0;
+}
+
+th.empty
+{
+	background-color: white;
+	border-top: 1px solid white;
+	border-left: 1px solid white;
+}
+
+th,td
+{
+	padding:5px;
+}
+
+td
+{
+	width: 120px;
+	text-align: center;
+}
+
+td.class:hover
+{
+	background-color: gray;
+}
+
+td.free
+{
+	color: white;
+}
+
+td.free:hover
+{
+	background-color: gray;
+	color: black;
+}
+
+td.longClass
+{
+	border-bottom: 1px white solid;
+}
