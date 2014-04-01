@@ -2,10 +2,20 @@ table,td,th
 {
 	border: 1px solid black;
 	border-collapse: collapse;
+}
+
+table
+{
 	table-layout: fixed;
+	width: 1060px;
 }
 
 th
+{
+	background-color: gray;
+}
+
+th.current
 {
 	background-color: #3876f0;
 }
@@ -47,4 +57,15 @@ td.free:hover
 td.longClass
 {
 	border-bottom: 1px white solid;
+}
+
+div.container
+{
+	width: = 5000px;
+	margin: 0 auto;
+}
+
+div.container *
+{
+	text-align: center;
 }
