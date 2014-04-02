@@ -192,24 +192,31 @@
 			{
 				case 0:
 				document.getElementById("Sunday").style.backgroundColor = "#3876f0";
+				document.getElementById("Saturday").style.backgroundColor = "gray";
 				break;
 				case 1:
 				document.getElementById("Monday").style.backgroundColor = "#3876f0";
+				document.getElementById("Sunday").style.backgroundColor = "gray";
 				break;
 				case 2:
 				document.getElementById("Tuesday").style.backgroundColor = "#3876f0";
+				document.getElementById("Monday").style.backgroundColor = "gray";
 				break;
 				case 3:
 				document.getElementById("Wednesday").style.backgroundColor = "#3876f0";
+				document.getElementById("Tuesday").style.backgroundColor = "gray";
 				break;
 				case 4:
 				document.getElementById("Thursday").style.backgroundColor = "#3876f0";
+				document.getElementById("Wednesday").style.backgroundColor = "gray";
 				break;
 				case 5:
 				document.getElementById("Friday").style.backgroundColor = "#3876f0";
+				document.getElementById("Thursday").style.backgroundColor = "gray";
 				break;
 				case 6:
 				document.getElementById("Saturday").style.backgroundColor = "#3876f0";
+				document.getElementById("Friday").style.backgroundColor = "gray";
 				break;
 			}
 			if(hour>=10 && hour<=16)
@@ -221,23 +228,33 @@
 					break;
 					case 11:
 					document.getElementById("eleven").style.backgroundColor = "#3876f0";
+					document.getElementById("ten").style.backgroundColor = "white";
 					break;
 					case 12:
 					document.getElementById("twelve").style.backgroundColor = "#3876f0";
+					document.getElementById("eleven").style.backgroundColor = "white";
 					break;
 					case 13:
 					document.getElementById("thirteen").style.backgroundColor = "#3876f0";
+					document.getElementById("twelve").style.backgroundColor = "white";
 					break;
 					case 14:
 					document.getElementById("fourteen").style.backgroundColor = "#3876f0";
+					document.getElementById("thirteen").style.backgroundColor = "white";
 					break;
 					case 15:
 					document.getElementById("fifteen").style.backgroundColor = "#3876f0";
+					document.getElementById("fourteen").style.backgroundColor = "white";
 					break;
 					case 16:
 					document.getElementById("sixteen").style.backgroundColor = "#3876f0";
+					document.getElementById("fifteen").style.backgroundColor = "white";
 					break;
 				}
+			}
+			if(hour==17)
+			{
+				document.getElementById("sixteen").style.backgroundColor = "white";
 			}
 			t=setTimeout(function() {getDayTime()},500);
 		}
