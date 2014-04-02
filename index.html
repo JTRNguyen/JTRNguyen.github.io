@@ -4,22 +4,22 @@
 		<title> My Schedule! </title>
 		<link rel="stylesheet" type="text/css" href="style.css">		
 	</head>
-	<body>
+	<body onload="getDayTime()">
 		<div class="container">
 			<p>March 30 - April 5</p>
 			<table align ="center">
 				<tr>
 					<th class="empty">  </th>
-					<th> Sunday </th>
-					<th> Monday </th>
-					<th class="current"> Tuesday </th>
-					<th> Wednesday </th>
-					<th> Thursday </th>
-					<th> Friday </th>
-					<th> Saturday </th>
+					<th id="Sunday"> Sunday </th>
+					<th id="Monday"> Monday </th>
+					<th id="Tuesday"> Tuesday </th>
+					<th id="Wednesday"> Wednesday </th>
+					<th id="Thursday"> Thursday </th>
+					<th id="Friday"> Friday </th>
+					<th id="Saturday"> Saturday </th>
 				</tr>
 				<tr>
-					<td> 10:00 AM </td>
+					<td id="ten"> 10:00 AM </td>
 					<td class="free"> Free! </td>
 					<td class="class"> 
 						ECS 122
@@ -47,7 +47,7 @@
 					<td class="free"> Free! </td>
 				</tr>
 				<tr>
-					<td> 11:00 AM </td>
+					<td id="eleven"> 11:00 AM </td>
 					<td class="free"> Free! </td>
 					<td class="class"> 
 						ECS 120
@@ -75,7 +75,7 @@
 					<td class="free"> Free! </td>
 				</tr>
 				<tr>
-					<td class="time"> 12:00 PM </td>
+					<td id="twelve"> 12:00 PM </td>
 					<td class="free"> Free! </td>
 					<td class="free"> Free! </td>
 					<td class="class">
@@ -97,7 +97,7 @@
 					<td class="free"> Free! </td>
 				</tr>
 				<tr>
-					<td class="time"> 1:00 PM </td>
+					<td id="thirteen"> 1:00 PM </td>
 					<td class="free"> Free! </td>
 					<td class="free"> Free! </td>
 					<td class="class">
@@ -119,7 +119,7 @@
 					<td class="free"> Free! </td>
 				</tr>
 				<tr>
-					<td class="time"> 2:00 PM </td>
+					<td id="fourteen"> 2:00 PM </td>
 					<td class="free"> Free! </td>
 					<td class="free"> Free! </td>
 					<td class="class">
@@ -147,7 +147,7 @@
 					<td class="free"> Free! </td>
 				</tr>
 				<tr>
-					<td class="time"> 3:00 PM </td>
+					<td id="fifteen"> 3:00 PM </td>
 					<td class="free"> Free! </td>
 					<td class="free"> Free! </td>
 					<td class="free"> Free! </td>
@@ -163,7 +163,7 @@
 					<td class="free"> Free! </td>
 				</tr>
 				<tr>
-					<td class="time"> 4:00 PM </td>
+					<td id="sixteen"> 4:00 PM </td>
 					<td class="free"> Free! </td>
 					<td class="free"> Free! </td>
 					<td class="free"> Free! </td>
@@ -179,8 +179,68 @@
 					<td class="free"> Free! </td>
 				</tr>
 			</table>
-			<p>Last Updated 3/31/2014 10:52 PM</p>
+			<p>Last Updated 4/01/2014 6:52 PM</p>
 			<p><img src="http://www.tehcute.com/pics/201109/is-this-a-kitten-or-a-puppy--big.jpg"></img></p>
 		</div>
+		<script>
+		function getDayTime()
+		{
+			var now = new Date();
+			var day = now.getDay();
+			var hour = now.getHours();
+			switch (day)
+			{
+				case 0:
+				document.getElementById("Sunday").style.backgroundColor = "#3876f0";
+				break;
+				case 1:
+				document.getElementById("Monday").style.backgroundColor = "#3876f0";
+				break;
+				case 2:
+				document.getElementById("Tuesday").style.backgroundColor = "#3876f0";
+				break;
+				case 3:
+				document.getElementById("Wednesday").style.backgroundColor = "#3876f0";
+				break;
+				case 4:
+				document.getElementById("Thursday").style.backgroundColor = "#3876f0";
+				break;
+				case 5:
+				document.getElementById("Friday").style.backgroundColor = "#3876f0";
+				break;
+				case 6:
+				document.getElementById("Saturday").style.backgroundColor = "#3876f0";
+				break;
+			}
+			if(hour>=10 && hour<=16)
+			{
+				switch (hour)
+				{
+					case 10:
+					document.getElementById("ten").style.backgroundColor = "#3876f0";
+					break;
+					case 11:
+					document.getElementById("eleven").style.backgroundColor = "#3876f0";
+					break;
+					case 12:
+					document.getElementById("twelve").style.backgroundColor = "#3876f0";
+					break;
+					case 13:
+					document.getElementById("thirteen").style.backgroundColor = "#3876f0";
+					break;
+					case 14:
+					document.getElementById("fourteen").style.backgroundColor = "#3876f0";
+					break;
+					case 15:
+					document.getElementById("fifteen").style.backgroundColor = "#3876f0";
+					break;
+					case 16:
+					document.getElementById("sixteen").style.backgroundColor = "#3876f0";
+					break;
+				}
+			}
+			t=setTimeout(function() {getDayTime()},500);
+		}
+		</script>
 	</body>
 </html>
