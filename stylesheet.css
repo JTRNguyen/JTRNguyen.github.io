@@ -2,17 +2,23 @@ table,td,th
 {
 	border: 1px solid black;
 	border-collapse: collapse;
+	font-family: 'Open Sans', sans-serif;
 }
 
 table
 {
 	table-layout: fixed;
-	width: 1060px;
+	width: 1200px;
 }
+
+/*tr.inside
+{
+	height: 75px;
+}*/
 
 th
 {
-	background-color: gray;
+	background-color: #3876f0;
 }
 
 th.current
@@ -34,11 +40,11 @@ th,td
 
 td
 {
-	width: 120px;
+	width: 150px;
 	text-align: center;
 }
 
-td.class:hover
+td.notTime:hover
 {
 	background-color: gray;
 }
