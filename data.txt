@@ -7,8 +7,8 @@ Empty,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
 1:00 PM,Free,EEC100@Class: Roessler 55@12:10 - 1:50,Free,Free,Free,Free,Free
 2:00 PM,Free,EEC100@Class: Roessler 55@1:10 - 2:50,Free,EEC100@Class: Roessler 55@1:10 - 2:50,Free,EEC100@Class: Roessler 55@1:10 - 2:50,Free
 3:00 PM,Free,EEC100@Class: Roessler 55@1:10 - 2:50,Free,EEC100@Class: Roessler 55@1:10 - 2:50,Free,EEC100@Class: Roessler 55@1:10 - 2:50,Free
-4:00 PM,Free,Free,Free,Free,Free,Kitty Time!,Free
-5:00 PM,Free,Free,Free,Free,Free,Kitty Time!,Free
-6:00 PM,Free,Free,Free,Free,Free,Kitty Time!,Free
-7:00 PM,Free,Free,Free,Free,Free,Kitty Time!,Free
-8:00 PM,Free,Free,Free,Free,Free,Kitty Time!,Free
+4:00 PM,Free,Free,Free,Free,Free,Free,Free
+5:00 PM,Free,Free,Free,Free,Free,Free,Free
+6:00 PM,Free,Free,Free,Free,Free,Free,Free
+7:00 PM,Free,Free,Free,Free,Free,Free,Free
+8:00 PM,Free,Free,Free,Free,Free,Free,Free
