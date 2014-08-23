@@ -27,7 +27,6 @@ function getCalendarInfo()
     				{
     					result[i] = result[i].match(patt2);
     				}
-             		console.log(result);
 	              	return result;
 	        	}
 	        }
