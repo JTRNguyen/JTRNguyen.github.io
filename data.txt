@@ -7,8 +7,8 @@ Empty,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
 1:00 PM,Free,Free,Free,Free,Free,Free,Free
 2:00 PM,Free,ECS132@2:10 - 3:00@Class: Hrng 2016,Free,ECS132@2:10 - 3:00@Class: Hrng 2016,Free,ECS132@2:10 - 3:00@Class: Hrng 2016,Free
 3:00 PM,Free,Free,ECS165A@3:10 - 4:00@Disc: Hrng 1204,Free,Free,Free,Free
-4:00 PM,Free,Free,ECS165A@4:40 - 6:00@Class: Hrng 1204,Free,ECS165A@4:40 - 6:00@Class: Hrng 1204,ECS132@4:10 - 5:00@Disc: Hrng 2016,Free
-5:00 PM,Free,Free,ECS165A@4:40 - 6:00@Class: Hrng 1204,Free,ECS165A@4:40 - 6:00@Class: Hrng 1204,Free,Free
+4:00 PM,Free,Free,ECS165A@4:40 - 6:00@Class: Evrsn 176,Free,ECS165A@4:40 - 6:00@Class: Evrsn 176,ECS132@4:10 - 5:00@Disc: Wellman 212,Free
+5:00 PM,Free,Free,ECS165A@4:40 - 6:00@Class: Evrsn 176,Free,ECS165A@4:40 - 6:00@Class: Evrsn 176,Free,Free
 6:00 PM,Free,Free,ECS171@6:10 - 7:30@Class: Olson 6,Free,ECS171@6:10 - 7:30@Class: Olson 6,Free,Free
 7:00 PM,Free,Free,ECS171@6:10 - 7:30@Class: Olson 6,Free,ECS171@6:10 - 7:30@Class: Olson 6,Free,Free
 8:00 PM,Free,Free,Free,Free,Free,Free,Free
