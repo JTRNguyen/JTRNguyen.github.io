@@ -1,14 +1,14 @@
-Empty,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
-8:00 AM,Free,Free,Free,Free,Free,Free,Free
-9:00 AM,Free,Free,ECS140A@9:00 - 10:20@Class: Giedt 01002,ECS171@9:00 - 9:50@Disc: Wellman 126,ECS140A@9:00 - 10:20@Class: Giedt 01002,Free,Free
-10:00 AM,Free,Free,Free,Free,Free,Free,Free
-11:00 AM,Free,Free,Free,Free,Free,Free,Free
-12:00 PM,Free,Free,Free,ECS140A@12:10 - 1:00@Disc: Scrbok 160,Free,Free,Free
-1:00 PM,Free,Free,Free,Free,Free,Free,Free
-2:00 PM,Free,ECS132@2:10 - 3:00@Class: Hrng 2016,Free,ECS132@2:10 - 3:00@Class: Hrng 2016,Free,ECS132@2:10 - 3:00@Class: Hrng 2016,Free
-3:00 PM,Free,Free,ECS165A@3:10 - 4:00@Disc: Hrng 1204,Free,Free,Free,Free
-4:00 PM,Free,Free,ECS165A@4:40 - 6:00@Class: Evrsn 176,Free,ECS165A@4:40 - 6:00@Class: Evrsn 176,ECS132@4:10 - 5:00@Disc: Wellman 212,Free
-5:00 PM,Free,Free,ECS165A@4:40 - 6:00@Class: Evrsn 176,Free,ECS165A@4:40 - 6:00@Class: Evrsn 176,Free,Free
-6:00 PM,Free,Free,ECS171@6:10 - 7:30@Class: Olson 6,Free,ECS171@6:10 - 7:30@Class: Olson 6,Free,Free
-7:00 PM,Free,Free,ECS171@6:10 - 7:30@Class: Olson 6,Free,ECS171@6:10 - 7:30@Class: Olson 6,Free,Free
-8:00 PM,Free,Free,Free,Free,Free,Free,Free
+Empty	Sunday	Monday	Tuesday	Wednesday	Thursday	Friday	Saturday
+8:00 AM	Free	Free	Free	Free	Free	Free	Free
+9:00 AM	Free	EEC 172-A01@9:00 am-9:50 am@OLSON 00158	ECS 154B-001@9:00 am-10:20 am@VEIMYR 00212	EEC 172-A01@9:00 am-9:50 am@OLSON 00158	ECS 154B-001@9:00 am-10:20 am@VEIMYR 00212	Free	Free
+10:00 AM	Free	Free	Free	Free	Free	Free	Free
+11:00 AM	Free	Free	Free	Free	Free	Free	Free
+12:00 PM	Free	SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129	SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129	SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129	SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129	SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129	SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129
+1:00 PM	Free	Free	Free	ECS 193B-001@1:10 pm-3:00 pm@MDSC C 00180	Free	Free	ECS 154B-001@1:10 pm-2:00 pm@WELLMN 00234
+2:00 PM	Free	Free	Free	ECS 193B-001@1:10 pm-3:00 pm@MDSC C 00180	Free	Free	Free
+3:00 PM	Free	Free	Free	Free	Free	Free	Free
+4:00 PM	Free	Free	Free	Free	Free	Free	Free
+5:00 PM	Free	Free	Free	Free	Free	Free	Free
+6:00 PM	Free	Free	EEC 172-A01@6:10 pm-8:00 pm@KEMPER 02112	Free	EEC 172-A01@6:10 pm-8:00 pm@KEMPER 02112	Free	Free
+7:00 PM	Free	Free	EEC 172-A01@6:10 pm-8:00 pm@KEMPER 02112	Free	EEC 172-A01@6:10 pm-8:00 pm@KEMPER 02112	Free	Free
+8:00 PM	Free	Free	Free	Free	Free	Free	Free
