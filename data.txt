@@ -1,14 +1,14 @@
-Empty	Sunday	Monday	Tuesday	Wednesday	Thursday	Friday	Saturday
-8:00 AM	Free	Free	Free	Free	Free	Free	Free
-9:00 AM	Free	EEC 172-A01@9:00 am-9:50 am@OLSON 00158	ECS 154B-001@9:00 am-10:20 am@VEIMYR 00212	EEC 172-A01@9:00 am-9:50 am@OLSON 00158	ECS 154B-001@9:00 am-10:20 am@VEIMYR 00212	Free	Free
-10:00 AM	Free	Free	Free	Free	Free	Free	Free
-11:00 AM	Free	Free	Free	Free	Free	Free	Free
-12:00 PM	Free	SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129	SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129	SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129	SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129	SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129	SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129
-1:00 PM	Free	Free	Free	ECS 193B-001@1:10 pm-3:00 pm@MDSC C 00180	Free	Free	ECS 154B-001@1:10 pm-2:00 pm@WELLMN 00234
-2:00 PM	Free	Free	Free	ECS 193B-001@1:10 pm-3:00 pm@MDSC C 00180	Free	Free	Free
-3:00 PM	Free	Free	Free	Free	Free	Free	Free
-4:00 PM	Free	Free	Free	Free	Free	Free	Free
-5:00 PM	Free	Free	Free	Free	Free	Free	Free
-6:00 PM	Free	Free	EEC 172-A01@6:10 pm-8:00 pm@KEMPER 02112	Free	EEC 172-A01@6:10 pm-8:00 pm@KEMPER 02112	Free	Free
-7:00 PM	Free	Free	EEC 172-A01@6:10 pm-8:00 pm@KEMPER 02112	Free	EEC 172-A01@6:10 pm-8:00 pm@KEMPER 02112	Free	Free
-8:00 PM	Free	Free	Free	Free	Free	Free	Free
+Empty,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+8:00 AM,Free,Free,Free,Free,Free,Free,Free
+9:00 AM,Free,EEC 172-A01@9:00 am-9:50 am@OLSON 00158,ECS 154B-001@9:00 am-10:20 am@VEIMYR 00212,EEC 172-A01@9:00 am-9:50 am@OLSON 00158,ECS 154B-001@9:00 am-10:20 am@VEIMYR 00212,Free,Free
+10:00 AM,Free,Free,Free,Free,Free,Free,Free
+11:00 AM,Free,Free,Free,Free,Free,Free,Free
+12:00 PM,Free,SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129,SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129,SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129,SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129,SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129,SPA 002-006@12:10 pm-1:00 pm@WELLMN 00129
+1:00 PM,Free,Free,Free,ECS 193B-001@1:10 pm-3:00 pm@MDSC C 00180,Free,Free,ECS 154B-001@1:10 pm-2:00 pm@WELLMN 00234
+2:00 PM,Free,Free,Free,ECS 193B-001@1:10 pm-3:00 pm@MDSC C 00180,Free,Free,Free
+3:00 PM,Free,Free,Free,Free,Free,Free,Free
+4:00 PM,Free,Free,Free,Free,Free,Free,Free
+5:00 PM,Free,Free,Free,Free,Free,Free,Free
+6:00 PM,Free,Free,EEC 172-A01@6:10 pm-8:00 pm@KEMPER 02112,Free,EEC 172-A01@6:10 pm-8:00 pm@KEMPER 02112,Free,Free
+7:00 PM,Free,Free,EEC 172-A01@6:10 pm-8:00 pm@KEMPER 02112,Free,EEC 172-A01@6:10 pm-8:00 pm@KEMPER 02112,Free,Free
+8:00 PM,Free,Free,Free,Free,Free,Free,Free
